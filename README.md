@@ -1,6 +1,11 @@
 # ReceiptRepositoryAPI (WIP)
 An example of Rust WebAPI Server - axum and diesel example
 
+## TODO List
+### Extract web and context layers
+### Complete the login/logout with session
+
+---
 Article in English and Mandarin: https://concurrentseal.wordpress.com/
 
 ## Project Introduction
